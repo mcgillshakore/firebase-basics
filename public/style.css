@@ -28,3 +28,18 @@
     background-color: rgb(20, 112, 112);
     cursor: pointer;
 }
+
+#createThing{
+    padding: 1em;
+    border: none;
+    background-color: rgb(46, 124, 15);
+    color: white;
+    box-shadow: .1em .1em  .5em rgb(128, 128, 128);
+    font-weight: bold;
+    border-radius: .5em;
+}
+
+#createThing:hover {
+    background-color: rgb(33, 85, 12);
+    cursor: pointer;
+}
