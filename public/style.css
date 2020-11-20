@@ -1,0 +1,30 @@
+#signInBtn {
+    padding: 1em;
+    border: none;
+    background-color: rgb(43, 43, 235);
+    color: white;
+    box-shadow: .1em .1em  .5em rgb(128, 128, 128);
+    font-weight: bold;
+    border-radius: .5em;
+}
+
+#signInBtn:hover {
+    background-color: rgb(27, 27, 145);
+    cursor: pointer;
+}
+
+
+#signOutBtn {
+    padding: 1em;
+    border: none;
+    background-color: rgb(27, 145, 145);
+    color: white;
+    box-shadow: .1em .1em  .5em rgb(128, 128, 128);
+    font-weight: bold;
+    border-radius: .5em;
+}
+
+#signOutBtn:hover {
+    background-color: rgb(20, 112, 112);
+    cursor: pointer;
+}
